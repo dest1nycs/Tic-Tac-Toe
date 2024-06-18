@@ -1,2 +1,2 @@
 # tetris
-practuka Tetris
+### About my project
