@@ -12,7 +12,7 @@ This project presents the classic Tetris game developed using C++. The game allo
 - Keeping records
 
 
-## Технології
+## Technologies
 
 - C++
 - Microsoft Visual Studio
